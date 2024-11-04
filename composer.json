@@ -1,5 +1,5 @@
 {
-	"name": "salamek/zasilkovna",
+	"name": "deamdever/zasilkovna",
 	"description": "Zasilkovna SOAP and REST client in PHP",
 	"keywords": [
 		"Zasilkovna",
@@ -24,7 +24,7 @@
 	"require": {
 		"php": ">=7.4.0",
 		"tecnickcom/tcpdf": "^6.3",
-		"spatie/array-to-xml": "^2.15"
+		"spatie/array-to-xml": "^3.1"
 	},
 	"require-dev": {
 		"phpstan/phpstan": "^0.12.18",
